@@ -1,0 +1,20 @@
+    #o {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    .bubble {
+        border: 6px double rgb(99, 219, 51);
+        display: dotted;
+        position: absolute;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+    }
+    
+    body {
+        background-color: rgb(212, 0, 255);
+    }
